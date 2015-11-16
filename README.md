@@ -6,6 +6,7 @@ and the [AIP science app generator](https://www.npmjs.org/package/generator-aip-
 ## App Code
 
 Your application code is in the `app/` subdirectory:
+ ** These directory/file names are only an example. This can be configured as wanted.**
 
 ```
 .
